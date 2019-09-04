@@ -9,3 +9,4 @@ out
 gen
 .gitignore
 .idea/vcs.xml
+/src/com/demo/application.properties
